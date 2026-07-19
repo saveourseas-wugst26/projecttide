@@ -5,6 +5,7 @@ import Mission from "@/components/Mission";
 import PlasticToCash from "@/components/PlasticToCash";
 import CollectionCentres from "@/components/CollectionCentres";
 import ProjectTide from "@/components/ProjectTide";
+import Timeline from "@/components/Timeline";
 import Gallery from "@/components/Gallery";
 import Partners from "@/components/Partners";
 import Contact from "@/components/Contact";
@@ -21,6 +22,7 @@ export default function Home() {
         <PlasticToCash />
         <CollectionCentres />
         <ProjectTide />
+        <Timeline />
         <Gallery />
         <Partners />
         <Contact />
